@@ -1,0 +1,25 @@
+{
+  "name": "com.whaleforge.forgetools",
+  "version": "0.0.1",
+  "displayName": "Forge Tools",
+  "description": "This is an internal library for WhaleForge.",
+  "unity": "2020.3",
+  "unityRelease": "45f1",
+  "documentationUrl": "https://whaleforge.co/",
+ "keywords": [
+    "whaleforge",
+    "tools"
+  ],
+  "author": {
+    "name": "Onur Dursun",
+    "email": "onurdursun@whaleforge.co",
+    "url" : "https://whaleforge.co/"
+  }, 
+  "samples": [
+    {
+        "displayName": "Prefabs",
+        "description": "Contains sample prefabs",
+        "path": "Samples~/Prefabs"
+    }
+]
+}
